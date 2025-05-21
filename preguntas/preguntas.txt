@@ -1,0 +1,8 @@
+Preguntas examen final:
+formas de buscar sobre un conjunto, solo de uno en uno,secuencial, no hay patron.
+indicador del tiempo (tiempo de indexacion) para el conjunto y los campos que estas guardando.
+
+define criterios para que no se llegue a un sobrecargo de la pila en recursividad.
+que aporta la programacion funcional extra.
+que pasa cuando pongo final en inmutabilidad a un array, a un objeto, a una clase y a un primitivo. que implica en el contexto y vocabulario de la asignatura.
+como se utiliza el cifrado c#.
