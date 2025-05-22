@@ -1,0 +1,16 @@
+Almacenamiento no relacional
+Manejo de grandes volumenes de datos
+obj1:
+odm y ogm.
+con un banco de consulta hacer queries.
+En odm:
+driver, esquemas, modelos, queries, relaciones(Populated), definicion de variables, procesamiento de json.
+las cosas faciles no van en el banco.
+saber como hacer un nodo y una relacion.
+en ogm:
+mirar presentacion.(Relaciones como parmetros).
+queries y relaciones es dificil aun teniendo el banco.
+obj2 querys parte dificil.
+crud neo4j y mongodb.
+obj3 validez.
+nos da n ogm que funciona pero sin terminar, tenemos que completarla y con ese codigo probara si funciona.
